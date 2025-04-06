@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yg105\\cppcode4\\prac5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47583B1D-A3F9-4E2B-BB37-DD5CA41C5A57}|prac5\\prac5.vcxproj|C:\\Users\\yg105\\cppcode4\\prac5\\prac5\\p22.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47583B1D-A3F9-4E2B-BB37-DD5CA41C5A57}|prac5\\prac5.vcxproj|solutionrelative:prac5\\p22.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "p22.cpp",
+              "DocumentMoniker": "C:\\Users\\yg105\\cppcode4\\prac5\\prac5\\p22.cpp",
+              "RelativeDocumentMoniker": "prac5\\p22.cpp",
+              "ToolTip": "C:\\Users\\yg105\\cppcode4\\prac5\\prac5\\p22.cpp*",
+              "RelativeToolTip": "prac5\\p22.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T06:52:36.441Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
