@@ -86,9 +86,9 @@ public:
 		han.show(time - 1);
 		int seatIdx;
 		string name;
-		cout << "좌석번호>> ";
+		cout << "좌석 번호>> ";
 		cin >> seatIdx;
-		cout << "이름입력>> ";
+		cout << "이름 입력>> ";
 		cin >> name;
 		han.reserve(time - 1, seatIdx - 1, name);
 	}
@@ -98,9 +98,9 @@ public:
 		han.show(time - 1);
 		int seatIdx;
 		string name;
-		cout << "좌석번호>> ";
+		cout << "좌석 번호>> ";
 		cin >> seatIdx;
-		cout << "이름입력>> ";
+		cout << "이름 입력>> ";
 		cin >> name;
 		han.cancel(time - 1, seatIdx - 1, name);
 	}
