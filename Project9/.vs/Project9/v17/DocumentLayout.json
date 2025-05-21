@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yg105\\cppcode4\\Project9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D88A2565-BA55-4B92-93B8-E75F57316202}|9-9\\9-9.vcxproj|C:\\Users\\yg105\\cppcode4\\Project9\\9-9\\9-9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D88A2565-BA55-4B92-93B8-E75F57316202}|9-9\\9-9.vcxproj|solutionrelative:9-9\\9-9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D28B83-3E06-43A1-9BE4-E9691085AD14}|9-7\\9-7.vcxproj|C:\\Users\\yg105\\cppcode4\\Project9\\9-7\\9-7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60D28B83-3E06-43A1-9BE4-E9691085AD14}|9-7\\9-7.vcxproj|solutionrelative:9-7\\9-7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A259645-59D0-4E63-A7EC-AF983348CDD7}|9-5\\9-5.vcxproj|C:\\Users\\yg105\\cppcode4\\Project9\\9-5\\9-5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A259645-59D0-4E63-A7EC-AF983348CDD7}|9-5\\9-5.vcxproj|solutionrelative:9-5\\9-5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3558AD-F441-4A0C-B104-6A32EDC70AB4}|9-3\\9-3.vcxproj|C:\\Users\\yg105\\cppcode4\\Project9\\9-3\\9-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AE3558AD-F441-4A0C-B104-6A32EDC70AB4}|9-3\\9-3.vcxproj|solutionrelative:9-3\\9-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69FD633-C9C4-415F-BC7D-C0BD1ECDA8D7}|9-1\\9-1.vcxproj|C:\\Users\\yg105\\cppcode4\\Project9\\9-1\\9-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E69FD633-C9C4-415F-BC7D-C0BD1ECDA8D7}|9-1\\9-1.vcxproj|solutionrelative:9-1\\9-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "9-9.cpp",
+              "DocumentMoniker": "C:\\Users\\yg105\\cppcode4\\Project9\\9-9\\9-9.cpp",
+              "RelativeDocumentMoniker": "9-9\\9-9.cpp",
+              "ToolTip": "C:\\Users\\yg105\\cppcode4\\Project9\\9-9\\9-9.cpp",
+              "RelativeToolTip": "9-9\\9-9.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-21T06:19:58.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "9-7.cpp",
+              "DocumentMoniker": "C:\\Users\\yg105\\cppcode4\\Project9\\9-7\\9-7.cpp",
+              "RelativeDocumentMoniker": "9-7\\9-7.cpp",
+              "ToolTip": "C:\\Users\\yg105\\cppcode4\\Project9\\9-7\\9-7.cpp",
+              "RelativeToolTip": "9-7\\9-7.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-21T06:19:36.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "9-5.cpp",
+              "DocumentMoniker": "C:\\Users\\yg105\\cppcode4\\Project9\\9-5\\9-5.cpp",
+              "RelativeDocumentMoniker": "9-5\\9-5.cpp",
+              "ToolTip": "C:\\Users\\yg105\\cppcode4\\Project9\\9-5\\9-5.cpp",
+              "RelativeToolTip": "9-5\\9-5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-21T06:19:14.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "9-3.cpp",
+              "DocumentMoniker": "C:\\Users\\yg105\\cppcode4\\Project9\\9-3\\9-3.cpp",
+              "RelativeDocumentMoniker": "9-3\\9-3.cpp",
+              "ToolTip": "C:\\Users\\yg105\\cppcode4\\Project9\\9-3\\9-3.cpp",
+              "RelativeToolTip": "9-3\\9-3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-21T06:18:55.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "9-1.cpp",
+              "DocumentMoniker": "C:\\Users\\yg105\\cppcode4\\Project9\\9-1\\9-1.cpp",
+              "RelativeDocumentMoniker": "9-1\\9-1.cpp",
+              "ToolTip": "C:\\Users\\yg105\\cppcode4\\Project9\\9-1\\9-1.cpp",
+              "RelativeToolTip": "9-1\\9-1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-21T06:16:57.633Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
