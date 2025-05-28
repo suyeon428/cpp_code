@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yg105\\cppcode4\\Project10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A994E5C6-7FA5-4238-9C3F-C24B2832FC0F}|10-15\\10-15.vcxproj|C:\\Users\\yg105\\cppcode4\\Project10\\10-15\\10-15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A994E5C6-7FA5-4238-9C3F-C24B2832FC0F}|10-15\\10-15.vcxproj|solutionrelative:10-15\\10-15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E262AECB-638F-46C9-BF6A-895764C8BA17}|10-13\\10-13.vcxproj|C:\\Users\\yg105\\cppcode4\\Project10\\10-13\\10-13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E262AECB-638F-46C9-BF6A-895764C8BA17}|10-13\\10-13.vcxproj|solutionrelative:10-13\\10-13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496BA8AF-7D4A-46F5-9D58-AB74A0D09481}|10-11\\10-11.vcxproj|C:\\Users\\yg105\\cppcode4\\Project10\\10-11\\10-11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{496BA8AF-7D4A-46F5-9D58-AB74A0D09481}|10-11\\10-11.vcxproj|solutionrelative:10-11\\10-11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F0438F-7466-40AA-B271-E469CF480ED0}|10-9\\10-9.vcxproj|C:\\Users\\yg105\\cppcode4\\Project10\\10-9\\10-9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40F0438F-7466-40AA-B271-E469CF480ED0}|10-9\\10-9.vcxproj|solutionrelative:10-9\\10-9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5913A4BE-42B3-45A7-A52B-D1AE1897FBD9}|10-7\\10-7.vcxproj|C:\\Users\\yg105\\cppcode4\\Project10\\10-7\\10-7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5913A4BE-42B3-45A7-A52B-D1AE1897FBD9}|10-7\\10-7.vcxproj|solutionrelative:10-7\\10-7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF33384-505B-4AC3-AD5B-8AF5E9196A1C}|10-5\\10-5.vcxproj|C:\\Users\\yg105\\cppcode4\\Project10\\10-5\\10-5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EF33384-505B-4AC3-AD5B-8AF5E9196A1C}|10-5\\10-5.vcxproj|solutionrelative:10-5\\10-5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4F6C369-776B-4505-83F8-7130CBB1C511}|10-3\\10-3.vcxproj|C:\\Users\\yg105\\cppcode4\\Project10\\10-3\\10-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4F6C369-776B-4505-83F8-7130CBB1C511}|10-3\\10-3.vcxproj|solutionrelative:10-3\\10-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74046670-A852-4D4A-944E-FA0587BFCCC0}|10-1\\10-1.vcxproj|C:\\Users\\yg105\\cppcode4\\Project10\\10-1\\10-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74046670-A852-4D4A-944E-FA0587BFCCC0}|10-1\\10-1.vcxproj|solutionrelative:10-1\\10-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 106,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "10-15.cpp",
+              "DocumentMoniker": "C:\\Users\\yg105\\cppcode4\\Project10\\10-15\\10-15.cpp",
+              "RelativeDocumentMoniker": "10-15\\10-15.cpp",
+              "ToolTip": "C:\\Users\\yg105\\cppcode4\\Project10\\10-15\\10-15.cpp",
+              "RelativeToolTip": "10-15\\10-15.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-28T08:05:06.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "10-13.cpp",
+              "DocumentMoniker": "C:\\Users\\yg105\\cppcode4\\Project10\\10-13\\10-13.cpp",
+              "RelativeDocumentMoniker": "10-13\\10-13.cpp",
+              "ToolTip": "C:\\Users\\yg105\\cppcode4\\Project10\\10-13\\10-13.cpp",
+              "RelativeToolTip": "10-13\\10-13.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-28T07:29:36.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "10-11.cpp",
+              "DocumentMoniker": "C:\\Users\\yg105\\cppcode4\\Project10\\10-11\\10-11.cpp",
+              "RelativeDocumentMoniker": "10-11\\10-11.cpp",
+              "ToolTip": "C:\\Users\\yg105\\cppcode4\\Project10\\10-11\\10-11.cpp",
+              "RelativeToolTip": "10-11\\10-11.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T19:01:46.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "10-9.cpp",
+              "DocumentMoniker": "C:\\Users\\yg105\\cppcode4\\Project10\\10-9\\10-9.cpp",
+              "RelativeDocumentMoniker": "10-9\\10-9.cpp",
+              "ToolTip": "C:\\Users\\yg105\\cppcode4\\Project10\\10-9\\10-9.cpp",
+              "RelativeToolTip": "10-9\\10-9.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T18:49:08.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "10-7.cpp",
+              "DocumentMoniker": "C:\\Users\\yg105\\cppcode4\\Project10\\10-7\\10-7.cpp",
+              "RelativeDocumentMoniker": "10-7\\10-7.cpp",
+              "ToolTip": "C:\\Users\\yg105\\cppcode4\\Project10\\10-7\\10-7.cpp",
+              "RelativeToolTip": "10-7\\10-7.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T18:35:06.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "10-5.cpp",
+              "DocumentMoniker": "C:\\Users\\yg105\\cppcode4\\Project10\\10-5\\10-5.cpp",
+              "RelativeDocumentMoniker": "10-5\\10-5.cpp",
+              "ToolTip": "C:\\Users\\yg105\\cppcode4\\Project10\\10-5\\10-5.cpp",
+              "RelativeToolTip": "10-5\\10-5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T18:29:51.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "10-3.cpp",
+              "DocumentMoniker": "C:\\Users\\yg105\\cppcode4\\Project10\\10-3\\10-3.cpp",
+              "RelativeDocumentMoniker": "10-3\\10-3.cpp",
+              "ToolTip": "C:\\Users\\yg105\\cppcode4\\Project10\\10-3\\10-3.cpp",
+              "RelativeToolTip": "10-3\\10-3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T18:02:45.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "10-1.cpp",
+              "DocumentMoniker": "C:\\Users\\yg105\\cppcode4\\Project10\\10-1\\10-1.cpp",
+              "RelativeDocumentMoniker": "10-1\\10-1.cpp",
+              "ToolTip": "C:\\Users\\yg105\\cppcode4\\Project10\\10-1\\10-1.cpp",
+              "RelativeToolTip": "10-1\\10-1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T13:48:03.769Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
